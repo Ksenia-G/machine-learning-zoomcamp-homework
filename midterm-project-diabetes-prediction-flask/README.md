@@ -15,6 +15,7 @@ Dataset used:
 ---
 
 ## Project Structure
+```
 diabetes_model/
 ├── Dockerfile
 ├── project.ipynb
@@ -25,6 +26,7 @@ diabetes_model/
 ├── predictions.csv
 ├── pyproject.toml
 └── README.md
+```
 
 
 ### File Descriptions
